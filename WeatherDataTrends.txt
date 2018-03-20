@@ -1,0 +1,7 @@
+Three observable trends based on the weather data:
+
+1) Based on the latitude vs. temperature graph, the temperatures are much higher closer to or on equator.
+
+2)Based on the Latitude vs. humidity chart, it is clear that the cities near the equator have very high humidity but as you go away from equator, you find varying degrees of humidity.
+
+3)Based on the latitude vs. windspeed chart, we see that the wind speed tends to stay lower in the cities near the equator.
